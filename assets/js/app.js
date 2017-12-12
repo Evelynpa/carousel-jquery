@@ -77,33 +77,3 @@ $(document).ready(function() {
 function rotate() {
     $('#next').click();
 }
-/*********************************************************************************************/
-// $('#foto_1').click(function () {
-//     $('#img_1').animate({
-//         "left": "-110%"},2000);
-//     $('#img_2').css({'display':'block'}).animate({ "left": "0%" },2000 );
-// });
-// $('#foto_2').click(function () {
-//     $('#img_2').animate({
-//         "left": "-110%"},2000);
-//     $('#img_3').css({'display':'block'}).animate({ "left": "0%" },2000 );
-//
-// });
-// $('#foto_3').click(function () {
-//     $('#img_3').animate({
-//         "left": "-110%"},2000);
-//     $('#img_4').css({'display':'block'}).animate({ "left": "0%" },2000 );
-//
-// });
-// $('#foto_4').click(function () {
-//     $('#img_4').animate({
-//         "left": "-110%"},2000);
-//     $('#img_5').css({'display':'block'}).animate({ "left": "0%" },2000 );
-//
-// });
-// $('#foto_5').click(function () {
-//     $('#img_5').animate({
-//         "left": "-110%"},2000);
-//     $('#img_1').css({'display':'block','right':'-100%'}).animate({ "left": "0%" },2000 );
-//
-// });
